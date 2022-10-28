@@ -52,10 +52,3 @@ Merci de votre attention.
 </p>
 
 > Rédigé par Alexy le 20/10/2022 à 10h53
-
-<style>
-.paragraph {
-	text-align: justify;
-	text-justify: inter-word;
-}
-</style>
