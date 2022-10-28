@@ -42,7 +42,7 @@ Pour rebondir à Horizon (qui est le metaverse), le monde de la VR est similaire
 Enfin, la réalité virtuelle n'est pas très confortable, et n'est pas destinée à tout les publics. C'est pourquoi cela peut provoquer des nausés.
 
 * #### Solutions
-
+Avoir un point de vu moins cibler, se renseigner davantage sur le monde de la réalité virtuelle afin de détacher le métaverse du reste du monde de la VR.
 
 * #### Conclusion
 Le monde de la réalité virtuelle ne doit pas être le monde que facebook propose mais bien un monde qui ressemble aux utilisateurs.
